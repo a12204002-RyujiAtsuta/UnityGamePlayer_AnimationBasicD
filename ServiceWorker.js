@@ -1,4 +1,4 @@
-const cacheName = "AtsutaRyuji-New_Social_Game-0.6.6_WebGL";
+const cacheName = "AtsutaRyuji-New_Social_Game-0.6.6_Windows";
 const contentToCache = [
     "Build/UnityGamePlayer_AnimationBasicD.loader.js",
     "Build/UnityGamePlayer_AnimationBasicD.framework.js",
